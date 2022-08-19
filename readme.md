@@ -1,5 +1,7 @@
 # Mid Bootcamp Project: Bestseller books on Amazon 2009-2019
 
+# Link to presentation: https://public.tableau.com/app/profile/franc.ricart/viz/Bookanalysis_16606660143350/Story1#1
+
 # Questions:
 
 1. Is there consistency in the bestselling books during the decade?
@@ -34,3 +36,5 @@ Dataset on Amazon's Top 50 bestselling books from 2009 to 2019. Contains 550 boo
 4. Unique values
 5. Look for NaNs, if any, and process them
 6. Create data tables per years and create ranking
+
+
