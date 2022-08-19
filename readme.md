@@ -1,6 +1,7 @@
 # Mid Bootcamp Project: Bestseller books on Amazon 2009-2019
 
-# Link to presentation: https://public.tableau.com/app/profile/franc.ricart/viz/Bookanalysis_16606660143350/Story1#1
+# Link to presentation: 
+https://public.tableau.com/app/profile/franc.ricart/viz/Bookanalysis_16606660143350/Story1#1
 
 # Questions:
 
